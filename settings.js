@@ -7,7 +7,7 @@ global.APIs = {
 }
 
 // Other
-global.owner = ['6281248009076', '6288233832771']
+global.owner = ["6281248009076", "6288233832771"]
 global.premium = ['6288233832771']
 global.youtube = 'https://youtube.com'
 global.ownername = 'Kina Cans'
@@ -32,7 +32,7 @@ global.mess = {
     wait: 'Loading...'
 }
 global.thumb = fs.readFileSync('./image/kina.jpg')
-global.vn = './sound/menu.mp3'
+global.vn = './sound/yaa.mp3'
 
 let file = require.resolve(__filename)
 fs.watchFile(file, () => {
