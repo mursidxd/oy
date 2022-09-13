@@ -7,9 +7,9 @@ global.APIs = {
 }
 
 // Other
-global.owner = ['6281248009076', ']
-global.premium = ['6281575886399']
-global.youtube = 'https://youtube.com/c/Riy'
+global.owner = ['6281248009076', '6288233832771']
+global.premium = ['6288233832771']
+global.youtube = 'https://youtube.com'
 global.ownername = 'Kina Cans'
 global.botname ='ᴋɪɴᴀ ʙᴏᴛ ᴍᴜʟᴛɪ ᴅᴇᴠɪᴄᴇ'
 global.donasi = {
